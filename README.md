@@ -1,7 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Learning Python and building small projects<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Python or Data Science projects<br><br>🤝 I’m looking for help with<br>Data Science roadmap and real-world projects<br><br>🌱 I’m currently learning<br>Python, NumPy, Pandas, and basic Machine Learning<br><br>💬 Ask me about<br>Python basics, OOP, and Data Science learning path<br><br>⚡ Fun fact<br>I love learning new tech skills and solving problems<br>
-
-
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/priyansh_06) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyansh_06__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyanshu Chandravanshi ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@priyanshuchandravanshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanschandravanshi203@gmail.com) 
 
